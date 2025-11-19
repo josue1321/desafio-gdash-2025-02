@@ -58,7 +58,7 @@ Você deverá construir um sistema que:
 - **Frontend:** React + Vite + Tailwind + [shadcn/ui](https://ui.shadcn.com)  
 - **Backend (API):** NestJS (TypeScript)  
 - **Banco de dados:** MongoDB (Atlas ou container)  
-- **Fila:** Go + Message Broker
+- **Fila:** Go + Message Broker (`RabbitMQ`, `Redis`, etc.)  
 - **Coleta de dados:** Python (`requests`, `httpx`, `pandas`, etc.)  
 - **APIs externas:**
   - Clima (obrigatória): [Open-Meteo](https://open-meteo.com/) ou [OpenWeather](https://openweathermap.org/)
