@@ -32,6 +32,7 @@ Procuramos por pessoas dinâmicas e que queiram estar aprendendo sempre. Nossa e
 # 🚀 O Desafio
 
 ## 🧭 Visão geral
+
 O objetivo deste desafio é desenvolver uma aplicação **full-stack** moderna que integre múltiplas linguagens e serviços, com foco em **integração entre sistemas, dados reais e uso de IA**.
 
 Você deverá construir um sistema que:
@@ -343,7 +344,7 @@ O Pull Request deve conter:
 
 ## ✅ Checklist rápido
 
-- [ ] Python coleta dados de clima (Open-Meteo ou OpenWeather)  
+- [x] Python coleta dados de clima (Open-Meteo ou OpenWeather)  
 - [ ] Python envia dados para a fila  
 - [ ] Worker Go consome a fila e envia para a API NestJS  
 - [ ] API NestJS:
